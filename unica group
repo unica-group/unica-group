@@ -38,3 +38,203 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Über uns | Unica Group GmbH</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Unica Group GmbH</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="ueber-uns.html">Über uns</a>
+    <a href="holzhaeuser.html">Holzhäuser</a>
+    <a href="renovationen.html">Renovationen</a>
+    <a href="kontakt.html">Kontakt</a>
+  </nav>
+</header>
+
+<section>
+  <h2>Über uns</h2>
+  <p>
+    Die Unica Group GmbH mit Sitz in Basel ist speziali<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Holzhäuser | Unica Group GmbH</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Unica Group GmbH</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="ueber-uns.html">Über uns</a>
+    <a href="holzhaeuser.html">Holzhäuser</a>
+    <a href="renovationen.html">Renovationen</a>
+    <a href="kontakt.html">Kontakt</a>
+  </nav>
+</header>
+
+<section>
+  <h2>Holzhäuser</h2>
+  <p>
+    Holzhäuser sind ökologisch, langlebig und energieeffizient. Wir realisieren individuelle Lösungen aus natürlichen Materialien.
+  </p>
+  <ul>
+    <li>Gesundes Raumklima</li>
+    <li>Hohe Energieeffizienz</li>
+    <li>Nachhaltige Materialien</li>
+    <li>Moderne Architektur</li>
+  </ul>
+</section>
+
+<footer>
+  <p>© 2026 Unica Group GmbH</p>
+</footer>
+
+</body>
+</html>
+siert auf den Bau von Holzhäusern sowie auf nachhaltige Renovationen.
+  </p>
+  <p>
+    Unser Ziel ist es, hochwertige Bauprojekte zu realisieren, die Umwelt, Gesundheit und Energieeffizienz in den Mittelpunkt stellen.
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 Unica Group GmbH</p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Renovationen | Unica Group GmbH</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Unica Group GmbH</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="ueber-uns.html">Über uns</a>
+    <a href="holzhaeuser.html">Holzhäuser</a>
+    <a href="renovationen.html">Renovationen</a>
+    <a href="kontakt.html">Kontakt</a>
+  </nav>
+</header>
+
+<section>
+  <h2>Renovationen</h2>
+  <p>
+    Wir führen nachhaltige Renovationen von Wohn- und Geschäftsgebäuden durch.
+    Ziel ist es, den Wohnkomfort zu verbessern und den Wert der Immobilie zu steigern.
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 Unica Group GmbH</p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Kontakt | Unica Group GmbH</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Unica Group GmbH</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="ueber-uns.html">Über uns</a>
+    <a href="holzhaeuser.html">Holzhäuser</a>
+    <a href="renovationen.html">Renovationen</a>
+    <a href="kontakt.html">Kontakt</a>
+  </nav>
+</header>
+
+<section>
+  <h2>Kontakt</h2>
+  <p>
+    <strong>Unica Group GmbH</strong><br>
+    Basel – Schweiz
+  </p>
+  <p>
+    E-Mail: info@unicagroup.ch<br>
+    Telefon: +41 … 
+  </p>
+  <p>
+    Kontaktieren Sie uns für eine unverbindliche Beratung.
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 Unica Group GmbH</p>
+</footer>
+
+</body>
+</html>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f3;
+  color: #2f3e2f;
+}
+
+header {
+  background-color: #3a5a40;
+  padding: 20px;
+}
+
+header h1 {
+  margin: 0;
+  color: #ffffff;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  margin-right: 15px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+section {
+  padding: 40px 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.hero {
+  background-color: #a3b18a;
+  text-align: center;
+  padding: 70px 20px;
+}
+
+footer {
+  background-color: #3a5a40;
+  color: #ffffff;
+  text-align: center;
+  padding: 15px;
+}
