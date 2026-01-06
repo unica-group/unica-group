@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Kontakt | Unica Group GmbH</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Unica Group GmbH</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="ueber-uns.html">Über uns</a>
+    <a href="holzhaeuser.html">Holzhäuser</a>
+    <a href="renovationen.html">Renovationen</a>
+    <a href="kontakt.html">Kontakt</a>
+  </nav>
+</header>
+
+<section>
+  <h2>Kontakt</h2>
+  <p>
+    <strong>Unica Group GmbH</strong><br>
+    Basel – Schweiz
+  </p>
+  <p>
+    E-Mail: info@unicagroup.ch<br>
+    Telefon: +41 …
+  </p>
+  <p>
+    Kontaktieren Sie uns für eine unverbindliche Beratung.
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 Unica Group GmbH</p>
+</footer>
+
+</body>
+</html>

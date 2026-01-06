@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Holzhäuser | Unica Group GmbH</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Unica Group GmbH</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="ueber-uns.html">Über uns</a>
+    <a href="holzhaeuser.html">Holzhäuser</a>
+    <a href="renovationen.html">Renovationen</a>
+    <a href="kontakt.html">Kontakt</a>
+  </nav>
+</header>
+
+<section>
+  <h2>Holzhäuser</h2>
+  <p>
+    Holzhäuser sind ökologisch, langlebig und energieeffizient. Wir realisieren individuelle Lösungen aus natürlichen Materialien.
+  </p>
+  <ul>
+    <li>Gesundes Raumklima</li>
+    <li>Hohe Energieeffizienz</li>
+    <li>Nachhaltige Materialien</li>
+    <li>Moderne Architektur</li>
+  </ul>
+</section>
+
+<footer>
+  <p>© 2026 Unica Group GmbH</p>
+</footer>
+
+</body>
+</html>

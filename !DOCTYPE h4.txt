@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Renovationen | Unica Group GmbH</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Unica Group GmbH</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="ueber-uns.html">Über uns</a>
+    <a href="holzhaeuser.html">Holzhäuser</a>
+    <a href="renovationen.html">Renovationen</a>
+    <a href="kontakt.html">Kontakt</a>
+  </nav>
+</header>
+
+<section>
+  <h2>Renovationen</h2>
+  <p>
+    Wir führen nachhaltige Renovationen von Wohn- und Geschäftsgebäuden durch.
+    Ziel ist es, den Wohnkomfort zu verbessern und den Wert der Immobilie zu steigern.
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 Unica Group GmbH</p>
+</footer>
+
+</body>
+</html>
