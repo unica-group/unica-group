@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Unica Group GmbH | Nachhaltiges Bauen in Basel</title>
+  <meta name="description" content="Unica Group GmbH – Holzhäuser und nachhaltige Renovationen in Basel.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Unica Group GmbH</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="ueber-uns.html">Über uns</a>
+    <a href="holzhaeuser.html">Holzhäuser</a>
+    <a href="renovationen.html">Renovationen</a>
+    <a href="kontakt.html">Kontakt</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h2>Nachhaltiges Bauen in Basel</h2>
+  <p>Wir bauen Holzhäuser und realisieren nachhaltige Renovationen.</p>
+</section>
+
+<section>
+  <h3>Ihr Partner für Bioedilizia</h3>
+  <p>
+    Die Unica Group GmbH steht für ökologisches, energieeffizientes und zukunftsorientiertes Bauen. 
+    Wir begleiten unsere Kunden von der Planung bis zur Umsetzung.
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 Unica Group GmbH – Basel</p>
+</footer>
+
+</body>
+</html>
